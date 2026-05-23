@@ -1,16 +1,17 @@
-## Hi there 👋
+# Vlad Leopold
 
-<!--
-**vladleopold/vladleopold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building mobile game release systems, Unity SDKs, and GitHub Actions automation for fast APK delivery.
 
-Here are some ideas to get you started:
+## Current Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ZeyWin Ads SDK and CrashGuard SDK release flow.
+- Unity Android APK builds on GitHub-hosted Ubuntu Actions.
+- Release dashboards, commit activity reports, and reproducible app variants.
+
+## Links
+
+- Organization: [zey-win](https://github.com/zey-win)
+- CI/CD: [zey-win/ci-cd](https://github.com/zey-win/ci-cd)
+- SDK: [zey-win/ZeyWinAdsSDK-Unity](https://github.com/zey-win/ZeyWinAdsSDK-Unity)
+
+<sub>by_leopold</sub>
